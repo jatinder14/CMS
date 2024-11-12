@@ -92,3 +92,8 @@ yarn dev
 ```
 
 The application will be available at http://localhost:3000. Open this URL in your browser to view the project.
+
+### The server will start on http://localhost:3000 by default.
+
+### I deployed the application on our aws instance 
+### The server base url is http://3.81.90.125:3001/
